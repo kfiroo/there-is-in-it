@@ -1,0 +1,12 @@
+{
+  "name": "there-is-in-it",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kfiroo/there-is-in-it.git",
+  "author": "kfiroo <kfirgolan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "4.17.4",
+    "slackbots": "1.0.2"
+  }
+}
